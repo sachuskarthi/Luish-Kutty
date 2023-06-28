@@ -3,13 +3,13 @@
 ## sachu xer
 
 <div align="center">
-  <img src=20230621_075052.jpg>
+  <img src=20230628_064734.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DCG4OhahmD73m7wgbt1iFf) 
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lc3IA8QXP4W0ymYOuyMtjV) 
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [!sachu xer](<img src=20230621_075052.jpg>
+  [!sachu xer](<img src=931d09a381b8f9e273bd83ef673a4107.jpg>
  https://github.com/sachu xer|  
 ----|
 [sachu xer](https://github.com/Richuse_b1)  |
